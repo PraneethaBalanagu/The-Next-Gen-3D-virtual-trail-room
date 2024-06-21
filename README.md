@@ -1,0 +1,1 @@
+Creates 3d objects for the cloths and human thats given in 2d form , helps for understanding what suits to a particular person through this remote trail room. We did it manually using blender , we are trying automating this
